@@ -24,6 +24,8 @@ Details (in Russian): [docs/VALIDATION.md](docs/VALIDATION.md).
 
 ![Note4C Voice on the device](docs/device.jpg)
 
+▶ [Demo video (YouTube)](https://www.youtube.com/shorts/uhrAeJdXi-o)
+
 ## Controls
 
 - **Short round press:** record a new note from any browsing position.
