@@ -1,0 +1,30 @@
+{
+  "vendor/es8311/es8311.c": {
+    "url": "https://raw.githubusercontent.com/espressif/esp-bsp/73ee07b1ad56f865f13a2739be8bb6808c1da58a/components/es8311/es8311.c",
+    "sha256": "066b70987fcc4e44e140702263bd6b88557f3505e10cfa4d7f0163e32a638072"
+  },
+  "vendor/es8311/es8311.h": {
+    "url": "https://raw.githubusercontent.com/espressif/esp-bsp/73ee07b1ad56f865f13a2739be8bb6808c1da58a/components/es8311/include/es8311.h",
+    "sha256": "70fb26aaff58e01a187312ea58d23891c371a5b81ca54e69fb4892f73f763cd6"
+  },
+  "vendor/es8311/es8311_reg.h": {
+    "url": "https://raw.githubusercontent.com/espressif/esp-bsp/73ee07b1ad56f865f13a2739be8bb6808c1da58a/components/es8311/priv_include/es8311_reg.h",
+    "sha256": "fa76f643f51eb6d6a2079a669d3b9048a4456adf4cc7d9e8f52b80d7ee55d813"
+  },
+  "vendor/es8311/LICENSE": {
+    "url": "https://raw.githubusercontent.com/espressif/esp-bsp/73ee07b1ad56f865f13a2739be8bb6808c1da58a/components/es8311/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  "assets/NotoSans-SemiBold.ttf": {
+    "url": "https://raw.githubusercontent.com/notofonts/noto-fonts/ffebf8c1ee449e544955a7e813c54f9b73848eac/hinted/ttf/NotoSans/NotoSans-SemiBold.ttf",
+    "sha256": "87a8b90ece1e89746b544e4e086f85a3710e41485a8078f9be874837dfad45d5"
+  },
+  "assets/NotoSans-Regular.ttf": {
+    "url": "https://raw.githubusercontent.com/notofonts/noto-fonts/ffebf8c1ee449e544955a7e813c54f9b73848eac/hinted/ttf/NotoSans/NotoSans-Regular.ttf",
+    "sha256": "b85c38ecea8a7cfb39c24e395a4007474fa5a4fc864f6ee33309eb4948d232d5"
+  },
+  "assets/OFL.txt": {
+    "url": "https://raw.githubusercontent.com/notofonts/noto-fonts/ffebf8c1ee449e544955a7e813c54f9b73848eac/LICENSE",
+    "sha256": "0dab92d0544f7b233403f14b84a663bdbfa746982eda629e7f4f9ffe1b036feb"
+  }
+}

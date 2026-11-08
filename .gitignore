@@ -1,0 +1,9 @@
+.pio/
+.pio-core/
+.venv/
+__pycache__/
+.DS_Store
+.vscode/
+test-output/
+# Build output; release images are attached to GitHub Releases.
+dist/

@@ -1,0 +1,64 @@
+esptool.py v4.9.0
+Serial port /dev/cu.usbmodem1143201
+Connecting...
+Chip is ESP32-S3 (QFN56) (revision v0.2)
+Features: WiFi, BLE, Embedded PSRAM 8MB (AP_3v3)
+Crystal is 40MHz
+USB mode: USB-Serial/JTAG
+MAC: xx:xx:xx:xx:xx:xx
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Flash will be erased from 0x0000e000 to 0x0000ffff...
+Flash will be erased from 0x00010000 to 0x00110fff...
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 1101.0 kbit/s)...
+Hash of data verified.
+Compressed 1048720 bytes to 617385...
+Writing at 0x00010000... (2 %)
+Writing at 0x0001bbb8... (5 %)
+Writing at 0x00025d69... (7 %)
+Writing at 0x00032816... (10 %)
+Writing at 0x00040049... (13 %)
+Writing at 0x0004b323... (15 %)
+Writing at 0x00055c9d... (18 %)
+Writing at 0x000658f4... (21 %)
+Writing at 0x0006b45c... (23 %)
+Writing at 0x0007123a... (26 %)
+Writing at 0x00076b06... (28 %)
+Writing at 0x0007c344... (31 %)
+Writing at 0x000825ed... (34 %)
+Writing at 0x0008828d... (36 %)
+Writing at 0x0008daba... (39 %)
+Writing at 0x00093609... (42 %)
+Writing at 0x0009861d... (44 %)
+Writing at 0x0009d62b... (47 %)
+Writing at 0x000a2499... (50 %)
+Writing at 0x000a7421... (52 %)
+Writing at 0x000ac41d... (55 %)
+Writing at 0x000b1474... (57 %)
+Writing at 0x000b66a7... (60 %)
+Writing at 0x000bb8f9... (63 %)
+Writing at 0x000c1611... (65 %)
+Writing at 0x000c63cb... (68 %)
+Writing at 0x000cb31a... (71 %)
+Writing at 0x000d03d0... (73 %)
+Writing at 0x000d58b1... (76 %)
+Writing at 0x000dabb9... (78 %)
+Writing at 0x000e01e7... (81 %)
+Writing at 0x000e5cbf... (84 %)
+Writing at 0x000eb472... (86 %)
+Writing at 0x000f06de... (89 %)
+Writing at 0x000f8a28... (92 %)
+Writing at 0x001013c7... (94 %)
+Writing at 0x00106703... (97 %)
+Writing at 0x0010be68... (100 %)
+Wrote 1048720 bytes (617385 compressed) at 0x00010000 in 5.6 seconds (effective 1494.3 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Staying in bootloader.
