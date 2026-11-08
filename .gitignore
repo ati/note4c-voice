@@ -7,3 +7,6 @@ __pycache__/
 test-output/
 # Build output; release images are attached to GitHub Releases.
 dist/
+
+# Original photo with camera metadata; docs/device.jpg is the stripped copy.
+R0010135.JPG

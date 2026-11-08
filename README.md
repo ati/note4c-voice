@@ -13,8 +13,8 @@ The on-device interface and the setup page are in Russian, and recognition
 requests Russian (`language=ru`).
 
 **Version of 9 November 2026:** the transcription server address and the
-time zone are set on the setup page. The build and host-side tests pass;
-this version has not yet been tested on the device.
+time zone are set on the setup page. Tested on the device on
+9 November 2026.
 
 **Version of 1 November 2026:** 7-note ring buffer, browsing and deletion.
 Flashed with NVS preserved; the USB log confirmed boot and a full screen
@@ -22,7 +22,7 @@ refresh in 24.042 seconds. On-device testing of the buffer and button
 scenarios is still pending.
 Details (in Russian): [docs/VALIDATION.md](docs/VALIDATION.md).
 
-![Two notes](docs/screen-history.png)
+![Note4C Voice on the device](docs/device.jpg)
 
 ## Controls
 
